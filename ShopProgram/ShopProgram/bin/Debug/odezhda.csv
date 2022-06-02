@@ -1,0 +1,11 @@
+Id; Price; Size; Color; Brand; Country; Material; Image; Quantity
+1;4756;40;White;H&M;Argentina;cotton;True;1
+2;564;42;Red;Tommy Hilfiger;Austria;synthetic;False;0
+3;5864;44;Yellow;Converse;Argentina;wool;False;1
+4;586;54;Green;Nike;Brazil;synthetic;True;2
+5;7989;54;White;Ugg;Belgium;cotton;True;1
+6;7166;48;White;Versace;Austria;synthetic;False;2
+7;6187;46;Red;H&M;Brazil;wool;True;2
+8;8766;40;Yellow;Tommy Hilfiger;Belgium;synthetic;False;2
+9;1658;44;Green;Converse;Austria;cotton;False;1
+10;1114;42;White;Nike;Argentina;cotton;False;1

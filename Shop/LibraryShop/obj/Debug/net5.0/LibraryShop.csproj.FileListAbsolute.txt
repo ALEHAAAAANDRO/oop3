@@ -1,0 +1,12 @@
+C:\Users\lehar\source\repos\Shop\LibraryShop\bin\Debug\net5.0\LibraryShop.deps.json
+C:\Users\lehar\source\repos\Shop\LibraryShop\bin\Debug\net5.0\LibraryShop.dll
+C:\Users\lehar\source\repos\Shop\LibraryShop\bin\Debug\net5.0\LibraryShop.pdb
+C:\Users\lehar\source\repos\Shop\LibraryShop\obj\Debug\net5.0\LibraryShop.csproj.AssemblyReference.cache
+C:\Users\lehar\source\repos\Shop\LibraryShop\obj\Debug\net5.0\LibraryShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lehar\source\repos\Shop\LibraryShop\obj\Debug\net5.0\LibraryShop.AssemblyInfoInputs.cache
+C:\Users\lehar\source\repos\Shop\LibraryShop\obj\Debug\net5.0\LibraryShop.AssemblyInfo.cs
+C:\Users\lehar\source\repos\Shop\LibraryShop\obj\Debug\net5.0\LibraryShop.csproj.CoreCompileInputs.cache
+C:\Users\lehar\source\repos\Shop\LibraryShop\obj\Debug\net5.0\LibraryShop.dll
+C:\Users\lehar\source\repos\Shop\LibraryShop\obj\Debug\net5.0\refint\LibraryShop.dll
+C:\Users\lehar\source\repos\Shop\LibraryShop\obj\Debug\net5.0\LibraryShop.pdb
+C:\Users\lehar\source\repos\Shop\LibraryShop\obj\Debug\net5.0\ref\LibraryShop.dll
